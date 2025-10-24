@@ -7,7 +7,6 @@ This repository contains my **Contact Service** artifact and testing work from C
 - `ContactService.java` – in-memory CRUD service (add, update, delete, fetch)  
 - `ContactTest.java` – unit tests for entity validation  
 - `ContactServiceTest.java` – unit tests for service behavior and edge cases  
-- *(From Project Two, if included)* `SummaryAndReflections.pdf` – brief summary and lessons learned
 
 ### Key requirements enforced
 - `contactId`: non-null, length ≤ 10, unique and not editable after creation  
